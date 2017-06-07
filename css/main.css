@@ -3,8 +3,9 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    height: 110vh;
-    width: 100%;	
+    height: 101vh;
+    width: 100%;
+    position: fixed;	
 }
 
 .bienvenida{
@@ -14,4 +15,17 @@
     background-position: center;
 	height: 101vh;
     width: 100%;
+    position: fixed;
+}
+.colorBtnBienvendida{
+	
+	background-color: #ef04b1;
+	
+}
+.posicionBtnFondo{
+	
+	position: fixed;
+	margin-right:  10px;
+	bottom: 10vh;
+	left:   10vh;
 }
